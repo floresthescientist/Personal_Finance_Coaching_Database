@@ -1,8 +1,8 @@
 # Personal Finance Coaching Database
 
-**CIS 344 – Project 1 | Adonis Flores | Lehman College, Fall 2026**
+**Project | Adonis Flores | Lehman College, Fall 2026**
 
-This project implements a relational database for a Personal Finance Coaching business. It tracks clients, their assigned financial coaches, individual savings goals, and monetary transactions. It was built using MySQL Workbench and designed for CIS 344.
+This project implements a relational database for a Personal Finance Coaching business. It tracks clients, their assigned financial coaches, individual savings goals, and monetary transactions. It was built using MySQL Workbench.
 
 ## Database design
 
